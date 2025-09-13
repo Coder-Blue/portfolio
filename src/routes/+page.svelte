@@ -6,6 +6,6 @@
 <h1 class="font-jb">Welcome to SvelteKit</h1>
 <div>
   <button onclick={() => setLocale("en")}>EN</button>
-  <button onclick={() => setLocale("vn")}>VN</button>
+  <button onclick={() => setLocale("vi")}>VN</button>
 </div>
 <p>{m.hello()}</p>
