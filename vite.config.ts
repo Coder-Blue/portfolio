@@ -8,10 +8,19 @@ export default defineConfig({
     tailwindcss(),
     sveltekit(),
     paraglide({
-      project: "./project.inlang",
+      project: "./src/project.inlang",
       outdir: "./src/lib/paraglide",
       strategy: ["url", "cookie", "baseLocale", "preferredLanguage", "baseLocale"],
       disableAsyncLocalStorage: true,
+      urlPatterns: [
+        {
+          pattern: "/",
+          localized: [
+            ["en", "/en"],
+            ["vi", "/vn"],
+          ],
+        },
+      ],
     }),
   ],
 
