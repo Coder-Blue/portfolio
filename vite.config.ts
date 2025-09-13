@@ -10,6 +10,17 @@ export default defineConfig({
     paraglide({
       project: "./project.inlang",
       outdir: "./src/lib/paraglide",
+      strategy: ["url", "cookie", "baseLocale", "preferredLanguage", "baseLocale"],
+      disableAsyncLocalStorage: true,
+      urlPatterns: [
+        {
+          pattern: "/",
+          localized: [
+            ["en", "/en"],
+            ["vi", "/vn"],
+          ],
+        },
+      ],
     }),
   ],
 
