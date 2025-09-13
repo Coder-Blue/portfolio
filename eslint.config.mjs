@@ -11,7 +11,7 @@ export default antfu(
       semi: true,
       quotes: "double",
     },
-    ignores: ["**/.svelte-kit/**", "bun.lock"],
+    ignores: ["**/.svelte-kit/**", "bun.lock", "src/lib/paraglide"],
   },
   {
     rules: {
