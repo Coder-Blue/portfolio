@@ -4,7 +4,7 @@
 </script>
 
 <h1 class="font-jb">Welcome to SvelteKit</h1>
-<div class="font-inter">
+<div>
   <button onclick={() => setLocale("en")}>EN</button>
   <button onclick={() => setLocale("vi")}>VN</button>
 </div>
