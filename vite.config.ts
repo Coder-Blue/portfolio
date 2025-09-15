@@ -1,6 +1,7 @@
 import { paraglideVitePlugin as paraglide } from "@inlang/paraglide-js";
 import { sveltekit } from "@sveltejs/kit/vite";
 import tailwindcss from "@tailwindcss/vite";
+import { threeMinifier } from "@yushijinhun/three-minifier-rollup";
 import { defineConfig } from "vite";
 
 export default defineConfig({
@@ -22,7 +23,12 @@ export default defineConfig({
         },
       ],
     }),
+    { ...threeMinifier(), enforce: "pre" },
   ],
 
   server: { port: 3000 },
+
+  ssr: {
+    noExternal: ["three"],
+  },
 });
