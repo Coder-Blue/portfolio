@@ -74,7 +74,7 @@
             </span>
           {/if}
         </h1>
-        <span class="job-title block bg-gradient-to-tr from-orange-500 via-orange-300 to-orange-500 bg-clip-text text-transparent text-2xl font-bold uppercase tracking-[.2em] md:text-4xl opacity-0">
+        <span class="job-title block bg-gradient-to-tr from-orange-500 via-orange-200 to-orange-500 bg-clip-text text-transparent text-2xl font-bold uppercase tracking-[.2em] md:text-4xl opacity-0">
           {m["hero.tagline"]()}
         </span>
       </div>
