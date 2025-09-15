@@ -116,6 +116,15 @@
   --font-jb: "JetBrains Mono", monospace;
 }
 
+.background-gradient {
+  background: radial-gradient(
+    circle at top center,
+    hsla(222, 80%, 60%, 0.5) 0%,
+    hsla(222, 0%, 0%, 0) 50%,
+    hsla(222, 0%, 0%, 0) 100%
+  );
+}
+
 @layer base {
   * {
     @apply border-border outline-ring/50;
