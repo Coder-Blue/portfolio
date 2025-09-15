@@ -1,4 +1,8 @@
 {
   "$schema": "https://inlang.com/schema/inlang-message-format",
-  "hello": "Xin chào"
+  "hero": {
+    "first_name": "Anh",
+    "last_name": "Quân",
+    "tagline": "Kĩ sư phần mềm năng động"
+  }
 }

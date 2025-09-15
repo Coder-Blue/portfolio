@@ -1,1 +1,1 @@
-// Import components later
+export * from "./hero";

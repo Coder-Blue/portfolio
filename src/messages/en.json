@@ -1,4 +1,8 @@
 {
   "$schema": "https://inlang.com/schema/inlang-message-format",
-  "hello": "Hello"
+  "hero": {
+    "first_name": "Noah",
+    "last_name": "Trần",
+    "tagline": "Energetic Software Engineer"
+  }
 }
