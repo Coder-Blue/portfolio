@@ -3,6 +3,14 @@
   "hero": {
     "first_name": "Noah",
     "last_name": "Trần",
-    "tagline": "Energetic Software Engineer"
+    "tagline": "Energetic Developer"
+  },
+  "footer": {
+    "name": "Noah Trần",
+    "href_label": {
+      "about": "About",
+      "projects": "Projects",
+      "blog": "Blog"
+    }
   }
 }

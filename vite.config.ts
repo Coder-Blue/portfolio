@@ -21,6 +21,27 @@ export default defineConfig({
             ["vi", "/vn"],
           ],
         },
+        {
+          pattern: "/about",
+          localized: [
+            ["en", "/en/about"],
+            ["vi", "/vn/about"],
+          ],
+        },
+        {
+          pattern: "/projects",
+          localized: [
+            ["en", "/en/projects"],
+            ["vi", "/vn/projects"],
+          ],
+        },
+        {
+          pattern: "/blog",
+          localized: [
+            ["en", "/en/blog"],
+            ["vi", "/vn/blog"],
+          ],
+        },
       ],
     }),
     { ...threeMinifier(), enforce: "pre" },
