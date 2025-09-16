@@ -42,6 +42,13 @@ export default defineConfig({
             ["vi", "/vn/blog"],
           ],
         },
+        {
+          pattern: "/contact",
+          localized: [
+            ["en", "/en/contact"],
+            ["vi", "/vn/contact"],
+          ],
+        },
       ],
     }),
     { ...threeMinifier(), enforce: "pre" },

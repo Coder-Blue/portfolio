@@ -14,5 +14,13 @@ export const links: { label: string; url: string }[] = [
 export const socialLinks: { label: string; url: string; icon: Component }[] = [
   { label: "Github", url: "https://github.com/Coder-Blue", icon: GithubIcon },
   { label: "X", url: "https://x.com/sh1ro_code", icon: XIcon },
-  { label: "Facebook", url: "https://facebook.com/noah1109.tran", icon: FacebookIcon },
+  { label: "Facebook", url: "https://facebook.com/noah.tran1109", icon: FacebookIcon },
+];
+
+export const ctaLink: { label: string; url: string }
+  = { label: m["footer.href_label.contact"](), url: "/contact" };
+
+export const langSwitcher: { label: string; locale: "en" | "vi" }[] = [
+  { label: "English", locale: "en" },
+  { label: "Tiếng Việt", locale: "vi" },
 ];
