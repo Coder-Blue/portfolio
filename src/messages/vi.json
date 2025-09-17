@@ -3,14 +3,18 @@
   "hero": {
     "first_name": "Anh",
     "last_name": "Quân",
-    "tagline": "Nhà phát triển năng động"
+    "tagline": "Kĩ sư năng động"
+  },
+  "header": {
+    "name": "Anh Quân"
   },
   "footer": {
     "name": "Anh Quân",
     "href_label": {
       "about": "Về tôi",
       "projects": "Dự án",
-      "blog": "Bài viết"
+      "blog": "Bài viết",
+      "contact": "Liên lạc"
     }
   }
 }

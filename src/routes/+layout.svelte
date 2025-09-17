@@ -1,6 +1,6 @@
 <script lang="ts">
   import "../app.css";
-  import { Footer } from "$components";
+  import { Footer, Header } from "$components";
   import favicon from "$lib/assets/favicon.svg";
 
   const { children } = $props();
@@ -10,6 +10,7 @@
   <link rel="icon" href={favicon} />
 </svelte:head>
 
+<Header />
 <main>
   {@render children?.()}
 </main>
