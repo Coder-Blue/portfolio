@@ -20,7 +20,7 @@ export const socialLinks: { label: string; url: string; icon: Component }[] = [
 export const ctaLink: { label: string; url: string }
   = { label: m["footer.href_label.contact"](), url: "/contact" };
 
-export const langSwitcher: { label: string; locale: "en" | "vi" }[] = [
-  { label: "English", locale: "en" },
-  { label: "Tiếng Việt", locale: "vi" },
+export const langSwitcher: { label: string; mobileLabel: string; locale: "en" | "vi" }[] = [
+  { label: "English", mobileLabel: "EN", locale: "en" },
+  { label: "Tiếng Việt", mobileLabel: "VN", locale: "vi" },
 ];

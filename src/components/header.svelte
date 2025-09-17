@@ -1,6 +1,6 @@
 <script lang="ts">
   import { MenuIcon, XIcon } from "@lucide/svelte";
-  import { Button, NavBarLink, ToggleDesktop } from "$components";
+  import { Button, NavBarLink, ToggleDesktop, ToggleMobile } from "$components";
   import { ctaLink, links } from "$lib/constants";
   import { m } from "$lib/paraglide/messages";
   import { localizeHref } from "$lib/paraglide/runtime";
@@ -49,6 +49,7 @@
           </li>
         {/each}
         <Button label={ctaLink.label} url={ctaLink.url} />
+        <ToggleMobile />
       </ul>
 
       <!-- Desktop Nav -->
