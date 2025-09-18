@@ -6,7 +6,7 @@ import Heading from "./heading.svelte";
 import Introduction from "./introduction.svelte";
 import NavBarLink from "./navbar-link.svelte";
 
-export * from "./biography";
+export * from "./about";
 export * from "./hero";
 export * from "./langs-toggle";
 export {
