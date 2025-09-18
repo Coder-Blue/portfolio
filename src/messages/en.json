@@ -16,5 +16,15 @@
       "blog": "Blog",
       "contact": "Contact"
     }
+  },
+  "about": {
+    "title": "About Noah",
+    "description": {
+      "paragraph1": "Hi, I’m Noah! I grew up in the Da Lat - Lam Dong, Viet Nam, currently working in Ho Chi Minh city, and I love all things that are creative. From the misty forests to the vibrant city streets, my surroundings have always fueled my passion for design and coding.",
+      "paragraph2": "As a self-taught engineer, I found my calling in blending artistic flair with technical skill. My journey has led me to specialize in fullstack development, where I craft interactive experiences that are not just functional, but also visually stunning.",
+      "paragraph3": "When I'm not coding, you'll find me enjoying digital arts, and cinema masterpieces or even participating content creating activities, such as cosplaying.",
+      "paragraph4": "Join me as we continue to push the web towards a future where everything moves at the speed of light!"
+    },
+    "contact_button": "Contact me"
   }
 }

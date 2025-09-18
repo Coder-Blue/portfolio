@@ -16,5 +16,15 @@
       "blog": "Bài viết",
       "contact": "Liên lạc"
     }
+  },
+  "about": {
+    "title": "Về Quân",
+    "description": {
+      "paragraph1": "Hố la, tôi là Noah! Tôi lớn lên ở Đà Lạt - Lâm Đồng, Việt Nam, hiện đang làm việc tại Thành phố Hồ Chí Minh, và tôi yêu tất cả những gì mang tính sáng tạo. Từ những cánh rừng mờ sương đến những con phố sôi động, môi trường xung quanh luôn nuôi dưỡng niềm đam mê thiết kế và lập trình của tôi.",
+      "paragraph2": "Là một kĩ sư phần mềm tự học, tôi tìm thấy tiếng gọi trong việc kết hợp năng khiếu nghệ thuật với kỹ thuật phần mềm điêu luyện. Hành trình này đã đưa tôi đến với chuyên ngành phát triển fullstack, nơi tôi tạo ra những trải nghiệm tương tác không chỉ hữu ích mà còn ấn tượng về mặt hình ảnh.",
+      "paragraph3": "Ngoài việc lập trình, bạn sẽ thấy tôi thích nghệ thuật kỹ thuật số và các kiệt tác điện ảnh hoặc thậm chí tham gia các hoạt động sáng tạo nội dung, chẳng hạn như cosplay.",
+      "paragraph4": "Hãy cùng tôi tiếp tục thúc đẩy thế giới web tiến về một tương lai nơi mà mọi thứ vận hành với tốc độ ánh sáng phía trước."
+    },
+    "contact_button": "Liên lạc"
   }
 }
