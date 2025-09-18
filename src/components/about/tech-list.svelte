@@ -4,7 +4,7 @@
   import { techList } from "$lib/constants";
   import { m } from "$lib/paraglide/messages";
   import gsap from "gsap";
-  import { ScrollTrigger } from "gsap/all";
+  import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
 
   gsap.registerPlugin(ScrollTrigger);
 
