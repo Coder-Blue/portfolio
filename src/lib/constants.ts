@@ -32,3 +32,10 @@ export const introductionContent: { content: string }[] = [
   { content: m["about.description.paragraph3"]() },
   { content: m["about.description.paragraph4"]() },
 ];
+
+export const techList: { label: string; colorHex: string }[] = [
+  { label: "Svelte", colorHex: "#ff3e00" },
+  { label: "React", colorHex: "#58c4dc" },
+  { label: "Tauri", colorHex: "#ffc131" },
+  { label: "Drizzle", colorHex: "#c5f74f" },
+];
