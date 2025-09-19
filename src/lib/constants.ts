@@ -39,3 +39,37 @@ export const techList: { label: string; colorHex: string }[] = [
   { label: "Tauri", colorHex: "#ffc131" },
   { label: "Drizzle", colorHex: "#c5f74f" },
 ];
+
+export const experiencesList: {
+  title: string;
+  time: string;
+  institution: string;
+  description: string;
+}[] = [
+  {
+    title: m["about.experiences.job_group_1.title"](),
+    time: m["about.experiences.job_group_1.time"](),
+    institution: m["about.experiences.job_group_1.institution"](),
+    description: m["about.experiences.job_group_1.description"](),
+  },
+  {
+    title: m["about.experiences.job_group_2.title"](),
+    time: m["about.experiences.job_group_2.time"](),
+    institution: m["about.experiences.job_group_2.institution"](),
+    description: m["about.experiences.job_group_2.description"](),
+  },
+];
+
+export const educationsList: {
+  title: string;
+  time: string;
+  institution: string;
+  description: string;
+}[] = [
+  {
+    title: m["about.educations.school_group_1.title"](),
+    time: m["about.educations.school_group_1.time"](),
+    institution: m["about.educations.school_group_1.institution"](),
+    description: m["about.educations.school_group_1.description"](),
+  },
+];

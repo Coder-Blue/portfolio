@@ -1,6 +1,13 @@
 <script lang="ts">
-  import { Biography, TechList } from "$components";
+  import {
+    Biography,
+    Education,
+    Experience,
+    TechList,
+  } from "$components";
 </script>
 
 <Biography />
 <TechList />
+<Experience />
+<Education />

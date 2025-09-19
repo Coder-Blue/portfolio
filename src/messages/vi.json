@@ -20,12 +20,36 @@
   "about": {
     "title": "Về Quân",
     "description": {
-      "paragraph1": "Hố la, tôi là Noah! Tôi lớn lên ở Đà Lạt - Lâm Đồng, Việt Nam, hiện đang làm việc tại Thành phố Hồ Chí Minh, và tôi yêu tất cả những gì mang tính sáng tạo. Từ những cánh rừng mờ sương đến những con phố sôi động, môi trường xung quanh luôn nuôi dưỡng niềm đam mê thiết kế và lập trình của tôi.",
+      "paragraph1": "Hố la, tôi là Quân! Tôi lớn lên ở Đà Lạt - Lâm Đồng, Việt Nam, hiện đang làm việc tại Thành phố Hồ Chí Minh, và tôi yêu tất cả những gì mang tính sáng tạo. Từ những cánh rừng mờ sương đến những con phố sôi động, môi trường xung quanh luôn nuôi dưỡng niềm đam mê thiết kế và lập trình của tôi.",
       "paragraph2": "Là một kĩ sư phần mềm tự học, tôi tìm thấy tiếng gọi trong việc kết hợp năng khiếu nghệ thuật với kỹ thuật phần mềm điêu luyện. Hành trình này đã đưa tôi đến với chuyên ngành phát triển fullstack, nơi tôi tạo ra những trải nghiệm tương tác không chỉ hữu ích mà còn ấn tượng về mặt hình ảnh.",
       "paragraph3": "Ngoài việc lập trình, bạn sẽ thấy tôi thích nghệ thuật kỹ thuật số và các kiệt tác điện ảnh hoặc thậm chí tham gia các hoạt động sáng tạo nội dung, chẳng hạn như cosplay.",
       "paragraph4": "Hãy cùng tôi tiếp tục thúc đẩy thế giới web tiến về một tương lai nơi mà mọi thứ vận hành với tốc độ ánh sáng phía trước."
     },
     "contact_button": "Liên lạc",
-    "techlist_title": "Thứ tôi sài"
+    "techlist_title": "Thứ tôi sài",
+    "experiences": {
+      "heading": "Kinh nghiệm",
+      "job_group_1": {
+        "title": "Kĩ sư phần mềm tự do",
+        "time": "2020-Nay",
+        "institution": "Web App",
+        "description": "Tôi thích được thử nghiệm các công nghệ của thế giới web đặc biệt là ngôn ngữ JavaScript. Những điều mới đó đã góp phần tăng tốc và tối ưu các sản phẩm mà các bên thuê tôi đặt ra yêu cầu, thậm chí thỏa mãn. Và phần lớn sản phẩm được tôi công khai trên Github."
+      },
+      "job_group_2": {
+        "title": "Thợ máy tính tự do",
+        "time": "2022-Nay",
+        "institution": "Địa phương",
+        "description": "Ngoài phát triển phần mềm, tôi còn yêu thích việc được nghịch với phần cứng máy tính. Tôi đã làm việc tại một workshop nhỏ về máy tính ở Đà Lạt, và thường xuyên nhận sửa, nâng cấp và lắp ráp các dàn máy để bàn / laptop cho khách tại gia."
+      }
+    },
+    "educations": {
+      "heading": "Học Vấn",
+      "school_group_1": {
+        "title": "Cử nhân khoa Mạng máy tính / Truyền thông",
+        "time": "Nay",
+        "institution": "Trường Đại học Công nghệ thông tin - UIT",
+        "description": "Đây là một ngôi trường có tiếng thuộc phân hiệu Đại học Quốc gia thành phố Hồ Chí Minh. Tôi chọn UIT là bến đỗ vì chương trình học đã đáp ứng đam mê / kĩ thuật của tôi dành cho thế giới web."
+      }
+    }
   }
 }
