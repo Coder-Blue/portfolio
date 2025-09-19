@@ -1,15 +1,26 @@
 <script lang="ts">
   import { Bounded, Heading } from "$components";
-  import { experiencesList } from "$lib/constants";
-  import { m } from "$lib/paraglide/messages";
+
+  type ItemListProps = {
+    title: string;
+    time: string;
+    institution: string;
+    description: string;
+  }[];
+
+  type TemplateProps = {
+    id: string;
+    heading: string;
+    list: ItemListProps;
+  };
+
+  const { id, heading, list }: TemplateProps = $props();
 </script>
 
-<Bounded id="experiences">
-  <Heading tag="h2" size="lg">
-    {m["about.experiences.heading"]()}
-  </Heading>
+<Bounded {id}>
+  <Heading tag="h2" size="lg">{heading}</Heading>
 
-  {#each experiencesList as { title, time, institution, description }}
+  {#each list as { title, time, institution, description }}
     <div class="ml-6 mt-8 max-w-prose md:ml-12 md:mt-16">
       <Heading tag="h3" size="sm">
         {title}
