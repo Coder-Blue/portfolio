@@ -51,5 +51,17 @@
         "description": "Đây là một ngôi trường có tiếng thuộc phân hiệu Đại học Quốc gia thành phố Hồ Chí Minh. Tôi chọn UIT là bến đỗ vì chương trình học đã đáp ứng đam mê / kĩ thuật của tôi dành cho thế giới web."
       }
     }
+  },
+  "blog_projects": {
+    "time_format": "vi-VN",
+    "blog": {
+      "title": "Bài viết",
+      "description": "Tôi chia sẻ những gì tôi đã học được trên hành trình này.",
+      "read_more": "Chi tiết",
+      "pagination": {
+        "previous": "Trước",
+        "next": "Sau"
+      }
+    }
   }
 }

@@ -17,38 +17,10 @@ export default defineConfig({
       disableAsyncLocalStorage: true,
       urlPatterns: [
         {
-          pattern: "/",
+          pattern: "/:path(.*)?",
           localized: [
-            ["en", "/en"],
-            ["vi", "/vn"],
-          ],
-        },
-        {
-          pattern: "/about",
-          localized: [
-            ["en", "/en/about"],
-            ["vi", "/vn/about"],
-          ],
-        },
-        {
-          pattern: "/projects",
-          localized: [
-            ["en", "/en/projects"],
-            ["vi", "/vn/projects"],
-          ],
-        },
-        {
-          pattern: "/blog",
-          localized: [
-            ["en", "/en/blog"],
-            ["vi", "/vn/blog"],
-          ],
-        },
-        {
-          pattern: "/contact",
-          localized: [
-            ["en", "/en/contact"],
-            ["vi", "/vn/contact"],
+            ["en", "/en/:path(.*)?"],
+            ["vi", "/vn/:path(.*)?"],
           ],
         },
       ],
