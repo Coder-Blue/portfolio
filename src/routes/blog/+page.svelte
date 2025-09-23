@@ -29,7 +29,7 @@
   <div class="prose prose-xl prose-invert mb-10">
     {m["blog_projects.blog.description"]()}
   </div>
-  <PostsList posts={items} />
+  <PostsList {items} />
   <Pagination bind:page
               {count}
               {perPage} />
