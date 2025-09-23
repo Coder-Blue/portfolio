@@ -70,7 +70,7 @@
       duration: 1.3,
     });
 
-    gsap.to("hover-reveal", {
+    gsap.to(".hover-reveal", {
       opacity: currentIndex === undefined ? 0 : 1,
       visibility: "visible",
       ease: "power3.out",
@@ -119,13 +119,9 @@
 
 <!-- Hover Element -->
 <div
-  class="hover-reveal pointer-events-none absolute left-0 top-0 -z-10 h-[320px] w-[220px] rounded-lg bg-cover bg-center opacity-100 transition-[background] duration-300"
+  class="hover-reveal pointer-events-none absolute left-0 top-0 -z-10 h-[320px] w-[220px] rounded-lg bg-cover bg-center opacity-0 transition-[background] duration-300"
   style={`
     ${currentIndex === undefined ? "" : `background-image: url(${contentImages[currentIndex]});`}
-    width: 220; 
-    height: 320; 
-    background-size: cover; 
-    background-position: center; 
     filter: brightness(0.9);
   `}
 >
