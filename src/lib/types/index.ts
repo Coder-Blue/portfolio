@@ -1,4 +1,4 @@
-import type { SvelteComponent } from "svelte";
+import type { Component } from "svelte";
 
 export type Post = {
   metadata: {
@@ -8,7 +8,7 @@ export type Post = {
     tags: string[];
     summary: string;
   };
-  default: SvelteComponent;
+  default: Component;
 };
 
 export type MetadataAndSlug = {

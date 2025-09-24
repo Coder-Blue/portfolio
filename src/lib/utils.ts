@@ -1,5 +1,6 @@
 import type { ClassValue } from "clsx";
 
+import { m } from "$lib/paraglide/messages";
 import { clsx } from "clsx";
 import { SvelteDate } from "svelte/reactivity";
 import { twMerge } from "tailwind-merge";
@@ -26,5 +27,5 @@ export function formatDate(dateStr: string) {
     day: "numeric",
   };
 
-  return new Intl.DateTimeFormat("vi-VN", options).format(date);
+  return new Intl.DateTimeFormat(m["blog_projects.time_format"](), options).format(date);
 }
