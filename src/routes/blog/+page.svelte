@@ -15,7 +15,7 @@
   const count = posts.length;
 
   const perPage = $state<number>(5);
-  let page = $state<number>(2);
+  let page = $state<number>(1);
 
   const items = $derived(
     posts.slice((page - 1) * perPage, (page - 1) * perPage + perPage),
