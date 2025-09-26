@@ -14,7 +14,7 @@ export default antfu(
     ignores: [
       "**/.svelte-kit/**",
       "bun.lock",
-      "src/lib/paraglide",
+      "src/lib/paraglide/**",
       "src/contents/**",
     ],
   },
