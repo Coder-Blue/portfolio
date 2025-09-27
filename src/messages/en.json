@@ -51,5 +51,17 @@
         "description": "This is a prestigious school branch of the Vietnam National University, Ho Chi Minh City. I chose UIT as my destination because the study program has satisfied my passion / technique for the web world."
       }
     }
+  },
+  "blog_projects": {
+    "time_format": "en-CA",
+    "blog": {
+      "title": "Blog",
+      "description": "I write about what I've learned so others can benefit.",
+      "read_more": "Read More",
+      "pagination": {
+        "previous": "Previous",
+        "next": "Next"
+      }
+    }
   }
 }

@@ -7,6 +7,7 @@ import Introduction from "./introduction.svelte";
 import NavBarLink from "./navbar-link.svelte";
 
 export * from "./about";
+export * from "./blog";
 export * from "./hero";
 export * from "./langs-toggle";
 export {

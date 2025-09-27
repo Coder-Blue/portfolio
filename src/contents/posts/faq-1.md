@@ -1,0 +1,93 @@
+---
+title: "Trả lời các câu hỏi bạn đọc thắc mắc về tác giả số thứ 1"
+thumbnailImg: "https://i.ibb.co/N3Y9Mmm/og-blog-vn.jpg"
+publishedAt: "2024-12-17"
+tags:
+    - FAQ
+    - Personal
+summary: "Một buổi Q&A ngắn bằng cả tiếng Anh và Việt"
+---
+
+> ### Note
+>
+> Just for fun
+
+## FAQ
+
+#### Question 1
+
+**Ur MBTI?**
+
+I&#39;m 55% INFJ, and 45% ENFJ
+
+#### Question 2
+
+**Ur enneagram**
+
+I&#39;m type 4, the Invidualist
+
+#### Question 3
+
+**How long have you been coding for?**
+
+About 5 years
+
+#### Question 4
+
+**Cereal first or milk first?**
+
+Milk first of course, I like my cereal crunchy
+
+#### Question 5
+
+**Are you gay?**
+
+Nope, I'm asexual, I would prefer to get in a romantic relationship with a female than a male, but I guess I can like boy in not some sexual way too
+
+#### Question 6
+
+**Từ trước đến nay bằng những gì em trải nghiệm qua thì em đắc tâm với điều gì?**
+
+Đắc tâm với việc tương lai là ở tay mình chứ không phải ai khác, hay cũng có thể chính mình là tương lai rồi
+
+#### Question 7
+
+**Anh ngày ngủ mấy tiếng?**
+
+Tùy
+
+- Không có việc gì để làm: 8 tiếng
+
+- Đi học: 5 tiếng
+
+- Bận code, deadline, mộng du: 3 tiếng
+
+#### Question 8
+
+**Sao cosplay xấu vậy?**
+
+Mình không chuyên với mình không có tiền thuê đồ á bạn
+
+#### Question 9
+
+**Bao nhiêu em người yêu cũ rồi?**
+
+1... mập mờ thì hơi nhìu bruh
+
+#### Question 10
+
+**Mày xàm**
+
+Xàm thật =)))))
+
+#### Question 10
+
+**Autobot or Decepticon**
+
+Decepticon of course
+
+#### Question 11
+
+**Anh có tiền không?**
+
+Khồng, lì xì đi
