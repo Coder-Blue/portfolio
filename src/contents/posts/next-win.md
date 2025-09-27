@@ -38,7 +38,7 @@ Nhưng trớ trêu ở điểm, nó cũng là ưu vừa là nhược điểm l�
 Thì chúng ta có thể nhìn sang lựa chọn khác đó chính là BackboneJS. Một trong nhiều thư viện JavaScript phổ biến đầu tiên áp dụng mô hình Model - View - Controller vào thiết kế của mình.
 
 <img
-  src="https://i.ibb.co/6RMfPsXr/MVC.png"
+  src="https://i.ibb.co/h1xRqVp4/MVC-fixed.png"
   alt="MVC"
   width={1200}
   height={630}
